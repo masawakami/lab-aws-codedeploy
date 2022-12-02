@@ -9,7 +9,7 @@ def mainmenu():
     return """
     <html>
     <body>
-    <center><h1>Hello Hello World! from AWS masawakamiCodeDeploy.</h1><br/>
+    <center><h1>Hello Hello World! from AWS CodeDeploy. masawakami</h1><br/>
     </body>
     </html>"""
 
